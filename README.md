@@ -1,2 +1,0 @@
-# djangocafe
-djangowebsite
